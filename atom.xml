@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Phyo Wai Win]]></title>
   <link href="http://kophyo.github.io/atom.xml" rel="self"/>
   <link href="http://kophyo.github.io/"/>
-  <updated>2014-03-30T11:21:27+06:30</updated>
+  <updated>2014-03-30T13:47:50+06:30</updated>
   <id>http://kophyo.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Phyo Wai Win]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
